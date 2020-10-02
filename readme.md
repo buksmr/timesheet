@@ -1,13 +1,17 @@
 
 # Timesheet
 
+http://afrimoviereviews.com/timesheet/
+
+username/password ebuka41/123456
+
 
 <p align="center">
     
-<img src="https://github.com/systimanx-itsol/finpay/blob/master/finpay/main.png" width=650px>
-<img src="https://github.com/systimanx-itsol/finpay/blob/master/finpay/login.png" width=650px>
-<img src="https://github.com/systimanx-itsol/finpay/blob/master/finpay/dash.png" width=650px>
-<img src="https://github.com/systimanx-itsol/finpay/blob/master/finpay/invoice.png" width=650px>
+<img src="https://github.com/buksmr/timesheet/blob/master/resources/assets/img/login.PNG" width=650px>
+<img src="https://github.com/buksmr/timesheet/blob/master/resources/assets/img/dashboard.PNG" width=650px>
+<img src="https://github.com/buksmr/timesheet/blob/master/resources/assets/img/timesheet.PNG" width=650px>
+<img src="https://github.com/buksmr/timesheet/blob/master/resources/assets/img/calender.PNG" width=650px>
 
 </p>
 
@@ -17,7 +21,7 @@
 DB_CONNECTION=mysql <br>
 DB_HOST=127.0.0.1 <br>
 DB_PORT=3306 <br>
-<b>DB_DATABASE=finpayml</b> <br>
+<b>DB_DATABASE=test</b> <br>
 <b>DB_USERNAME=root</b> <br>
 <b>DB_PASSWORD=*****</b> </p>
 
